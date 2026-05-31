@@ -1,0 +1,4 @@
+flask>=2.3.0
+scapy>=2.5.0
+colorama>=0.4.6
+reportlab>=4.0.0
