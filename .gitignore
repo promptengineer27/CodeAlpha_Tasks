@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pcap
+*.db
+secret_key.txt
+captures/*
+!captures/.gitkeep
+reports/*
+!reports/.gitkeep
